@@ -1,7 +1,8 @@
 base    emoji
 author  Patrick Brown
 email   ptbrown@whoopdedo.org
-date    2015-07-24
+date    2015-08.13
 name    Emoji Substitution
 desc    Emoji substitution plugin using graphics from EmojiOne <http://www.emojione.com>
 url     http://www.whoopdedo.org/doku/wiki/emoji
+version 3.1
